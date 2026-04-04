@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Vaibhav, a Full Stack Developer and MCA student based in India.
+I'm Vaibhav, a full stack developer based in India.
 
 I build web applications that solve real-world problems and focus on writing clean, scalable code.
 
@@ -22,5 +22,5 @@ Git • GitHub • Postman • VS Code
 **Contact**
 
 📧 chauhanvaibhav758@gmail.com  
-💼 https://linkedin.com/in/your-linkedin  
-💻 https://github.com/Vaibhav0911
+💼 https://www.linkedin.com/in/vaibhav-chauhan1303/  
+
