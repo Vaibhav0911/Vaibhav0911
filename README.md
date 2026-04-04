@@ -19,8 +19,9 @@ Git • GitHub • Postman • VS Code
 
 
 
-**Contact**
-
-📧 chauhanvaibhav758@gmail.com  
-💼 https://www.linkedin.com/in/vaibhav-chauhan1303/  
+**Fun Facts**
+- I build more than I consume  
+- I treat bugs as puzzles, not problems  
+- I enjoy breaking systems to understand them better   
+- Consistency over intensity  
 
