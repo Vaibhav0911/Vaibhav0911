@@ -1,28 +1,28 @@
-# Hi, I'm Vaibhav Chauhan 👋
+# Hey there! 👋
 
-## 🚀 Introduction
-MCA student and aspiring Full Stack Developer skilled in building scalable web applications.  
-Focused on React, Node.js, and backend system design with an interest in machine learning integration.
+I'm Vaibhav, a Full Stack Developer and MCA student based in India.
 
----
+I build web applications that solve real-world problems and focus on writing clean, scalable code.
 
-## 🛠️ Tech Stack
-- **Frontend:** React.js, HTML, CSS, JavaScript  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Languages:** C++, JavaScript, Python  
-- **Tools:** Git, GitHub, VS Code, Postman  
+Most of my work revolves around React, Node.js, and MongoDB, and I enjoy combining backend systems with intuitive frontend experiences. 
+
+I like turning ideas into working products — from real-time chat apps to stock prediction platforms.
+
+I’ve worked on multiple projects, but one of my key projects is a full-stack navigation system with route optimization, authentication, and real-time features.
 
 ---
 
-## 📊 GitHub Stats
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhav0911&show_icons=true&theme=tokyonight)
+**Tech Stack**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav0911&layout=compact&theme=tokyonight)
+React • Node.js • Express • MongoDB  
+JavaScript • C++ • Python  
+Git • GitHub • Postman • VS Code  
 
 ---
 
-## 📫 Contact
-- 📧 Email: chauhanvaibhav758@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin  
-- 💻 GitHub: https://github.com/Vaibhav0911
+
+**Contact**
+
+📧 chauhanvaibhav758@gmail.com  
+💼 https://linkedin.com/in/your-linkedin  
+💻 https://github.com/Vaibhav0911
