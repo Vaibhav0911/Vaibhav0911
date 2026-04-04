@@ -10,7 +10,6 @@ I like turning ideas into working products — from real-time chat apps to stock
 
 I’ve worked on multiple projects, but one of my key projects is a full-stack navigation system with route optimization, authentication, and real-time features.
 
----
 
 **Tech Stack**
 
@@ -18,7 +17,6 @@ React • Node.js • Express • MongoDB
 JavaScript • C++ • Python  
 Git • GitHub • Postman • VS Code  
 
----
 
 
 **Contact**
