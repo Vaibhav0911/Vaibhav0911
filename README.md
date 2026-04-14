@@ -14,5 +14,8 @@ I’ve worked on multiple projects, but one of my key projects is a full-stack n
 - I build more than I consume  
 - I treat bugs as puzzles, not problems  
 - I enjoy breaking systems to understand them better   
-- Consistency over intensity  
+- Consistency over intensity
 
+- ## 🔗 Connect with me
+- 📧 Email: chauhanvaibhav758@gmail.com
+- 💻 LeetCode: https://leetcode.com/u/chauhanvaibhav758/
