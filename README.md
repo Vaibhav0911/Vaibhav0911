@@ -16,6 +16,6 @@ I’ve worked on multiple projects, but one of my key projects is a full-stack n
 - I enjoy breaking systems to understand them better   
 - Consistency over intensity
 
-## 🔗 Connect with me
+🔗 **Connect with me**
 - 📧 Email: chauhanvaibhav758@gmail.com
 - 💻 LeetCode: https://leetcode.com/u/chauhanvaibhav758/
